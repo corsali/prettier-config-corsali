@@ -1,0 +1,29 @@
+{
+  "name": "@corsali/prettier-config",
+  "version": "1.0.0",
+  "main": "prettier.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/corsali/prettier-config-corsali.git"
+  },
+  "author": "Albert <albert@corsali.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Corsali prettier config.",
+  "bugs": {
+    "url": "https://github.com/corsali/prettier-config-corsali/issues"
+  },
+  "homepage": "https://github.com/corsali/prettier-config-corsali#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier"
+  ]
+}
